@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @manlulu07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning mechatronics and computer engineering 
-- 💞️ I’m looking to collaborate on cs50 labs
-- 📫 How to reach me manlulu07 on instagram/+48500178372 0n whatsApp
+###Content Management System
 
-<!---
-manlulu07/manlulu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Description
+
+This is a car dealership website that shows cars that are for sale on the front page. If you navigate to the admin panel which requires login everytime you try to acces it , there you can add into the website,delete from the website, update on the website and also view vehicles on the website.
+
+username: admin
+password: admin
